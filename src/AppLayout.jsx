@@ -22,7 +22,7 @@ function AppLayout() {
       <div className="  z-20  py-2 overflow-hidden no-scrollbar overflow-y-scroll">
         <MemeMark />
         </div>
-        <img src="images/vfd.png" alt=""  className=" w-full overflow-hidden absolute top-0"/>
+        <img src="images/vfd.png" alt=""  className=" w-full overflow-hidden absolute top-2 sm:top-0"/>
 
        
       </div>
