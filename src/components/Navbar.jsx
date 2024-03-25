@@ -10,9 +10,9 @@ function Navbar() {
     <nav className="  py-4  ">
       <div className="container-wrapper flex items-center justify-center relative">
 
-        <h1 className=" text-xs sm:text-xl font-bold text-center">
-        CA: GtDZKAqvMZMnti46ZewMiXCa4oXF4bZxwQPoKzXPFxZn
-        </h1>
+        <a href="https://solscan.io/token/8EX8dPYuK1gN5BTKJGPRRe1AXDg1G2AveTzJY6FYYxkr" target="_blank" className=" text-xs sm:text-xl font-bold text-center">
+        CA: 8EX8dPYuK1gN5BTKJGPRRe1AXDg1G2AveTzJY6FYYxkr
+        </a>
        
       
 

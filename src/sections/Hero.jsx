@@ -10,24 +10,26 @@ function Hero() {
 
         <div className=" flex justify-center gap-5 items-center">
           <a
-            href="/"
+            href="https://x.com/nub_doge_" target="_blank"
             className=" bg-[#b6d9ff] rounded-full px-4 py-2 text-xl font-semibold "
           >
             Twitter
           </a>
 
-          <a
-            href="/"
-            className=" bg-[#b6d9ff] rounded-full px-4 py-2 text-xl font-semibold "
-          >
-            DexTools
-          </a>
+       
 
           <a
-            href="/"
+            href="https://t.me/nubdoges" target="_blank"
             className=" bg-[#b6d9ff] rounded-full px-4 py-2 text-xl font-semibold "
           >
             Telegram
+          </a>
+
+          <a
+            href="https://www.dextools.io/app/en/solana/pair-explorer/GzFhSwYnVZxx7BYheTmn2qLZzav6Zs9MnqBZr5Ce5AAV?t=1711398205299" target="_blank"
+            className=" bg-[#b6d9ff] rounded-full px-4 py-2 text-xl font-semibold "
+          >
+            DexTools
           </a>
         </div>
         <div className=" flex justify-center mx-auto">
