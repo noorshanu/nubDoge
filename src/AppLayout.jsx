@@ -17,14 +17,14 @@ function AppLayout() {
 
         <Hero />
       </main>
-      <div className="  py-4  mb-2 relative  ">
+      <div className="  pt-4  mb-[25%]  relative  no-scrollbar ">
       
-
-        <img src="images/vfd.png" alt=""  className=" w-full"/>
-
-        <div className=" absolute top-[35px] z-20 bg-[#427ab682] py-2">
+      <div className="  z-20  py-2 overflow-hidden no-scrollbar overflow-y-scroll">
         <MemeMark />
         </div>
+        <img src="images/vfd.png" alt=""  className=" w-full overflow-hidden absolute top-0"/>
+
+       
       </div>
 
       <div>

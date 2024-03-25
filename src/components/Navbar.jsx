@@ -10,7 +10,7 @@ function Navbar() {
     <nav className="  py-4  ">
       <div className="container-wrapper flex items-center justify-center relative">
 
-        <h1 className=" text-xl font-bold text-center">
+        <h1 className=" text-xs sm:text-xl font-bold text-center">
         CA: GtDZKAqvMZMnti46ZewMiXCa4oXF4bZxwQPoKzXPFxZn
         </h1>
        
