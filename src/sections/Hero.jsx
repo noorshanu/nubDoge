@@ -2,9 +2,9 @@ import { FaTwitter, FaTelegram } from "react-icons/fa";
 
 function Hero() {
   return (
-    <section className=" pt-4  pb-[4rem]">
+    <section className=" pt-0  pb-[4rem]">
       <div className="container-wrapper flex justify-center flex-col ">
-        <h1 className=" font-kid text-[120px] font-bold text-center">
+        <h1 className=" font-kid text-[120px] sm:text-[220px] font-bold text-center">
           NubDoge
         </h1>
 
@@ -34,7 +34,7 @@ function Hero() {
           <img
             src="images/hero.png"
             alt=""
-            className="w-auto h-64 mt-20 lg:mt-10 2xl:mt-8 lg:h-[500px] 2xl:h-[550px] mx-auto"
+            className="w-auto h-64    lg:h-[500px] 2xl:h-[550px] mx-auto"
           />
         </div>
       </div>
